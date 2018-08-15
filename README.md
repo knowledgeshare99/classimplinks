@@ -14,6 +14,8 @@ https://blog.powerupcloud.com/capture-ec2-launch-termination-events-using-cloudt
 
 https://aws.amazon.com/premiumsupport/knowledge-center/nat-gateway-vpc-private-subnet/
 
+https://aws.amazon.com/blogs/aws/new-managed-nat-network-address-translation-gateway-for-aws/
+
 #DevOps 
 
 #Git and GitHub
