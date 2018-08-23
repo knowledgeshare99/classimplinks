@@ -21,3 +21,32 @@ https://aws.amazon.com/blogs/aws/new-managed-nat-network-address-translation-gat
 #Git and GitHub
 
 https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+
+
+# KONG API Gateway vs AWS API Gateway
+
+https://blog/techtrain/2018/01/11/introducing-kumo-cloud-automation-suite/
+
+Installation steps on #CentOS7
+
+https://github.com/knowledgeshare99/kong.git
+
+https://docs.konghq.com/install/centos/#packages
+
+https://github.com/knowledgeshare99/kong.git
+
+#Using CloudFormation template
+
+https://docs.konghq.com/install/aws-cloudformation/
+
+Configuration loading Kong
+
+https://docs.konghq.com/0.11.x/configuration/
+
+
+# PostgreSql installation on Ubunto
+
+https://www.godaddy.com/garage/how-to-install-postgresql-on-ubuntu-14-04/
+
+
+
