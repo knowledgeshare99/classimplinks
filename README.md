@@ -43,6 +43,9 @@ Configuration loading Kong
 
 https://docs.konghq.com/0.11.x/configuration/
 
+#kong Auto start/stop/health etc,..
+
+https://github.com/Kong/kong/issues/2471
 
 # PostgreSql installation on Ubunto
 
