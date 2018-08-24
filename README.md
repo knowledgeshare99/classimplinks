@@ -51,7 +51,9 @@ https://docs.konghq.com/0.11.x/configuration/
 
 https://github.com/Kong/kong/issues/2471
 
+# Service Discovery (consul) clouster setup 
 
+https://gist.github.com/sdorsett/5cf05bb5e02f1e4a20224bae62b375ea
 
 # PostgreSql installation on Ubunto
 
