@@ -35,6 +35,10 @@ https://docs.konghq.com/install/centos/#packages
 
 https://github.com/knowledgeshare99/kong.git
 
+#Using docker-file 
+
+https://github.com/docker-library/docs/tree/master/kong
+
 #Using CloudFormation template
 
 https://docs.konghq.com/install/aws-cloudformation/
@@ -46,6 +50,8 @@ https://docs.konghq.com/0.11.x/configuration/
 #kong Auto start/stop/health etc,..
 
 https://github.com/Kong/kong/issues/2471
+
+
 
 # PostgreSql installation on Ubunto
 
