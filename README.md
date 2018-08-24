@@ -53,7 +53,24 @@ https://github.com/Kong/kong/issues/2471
 
 # Service Discovery (consul) clouster setup 
 
+#Important links
+
 https://gist.github.com/sdorsett/5cf05bb5e02f1e4a20224bae62b375ea
+
+http://www.adambonny.com/installing-consul-server-on-centos/
+
+https://linuxthegreat.wordpress.com/2017/09/19/hashicorp-consul-installation-on-centos-7/
+
+https://www.digitalocean.com/community/tutorials/how-to-configure-consul-in-a-production-environment-on-ubuntu-14-04
+
+https://www.consul.io/docs/agent/options.html
+
+https://www.consul.io/intro/getting-started/install.html
+
+ Nice :
+ 
+https://devopscube.com/setup-consul-cluster-guide/
+
 
 # PostgreSql installation on Ubunto
 
