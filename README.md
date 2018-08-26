@@ -25,8 +25,6 @@ https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
 
 # KONG API Gateway vs AWS API Gateway
 
-https://blog/techtrain/2018/01/11/introducing-kumo-cloud-automation-suite/
-
 Installation steps on #CentOS7
 
 https://github.com/knowledgeshare99/kong.git
