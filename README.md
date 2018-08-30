@@ -69,6 +69,12 @@ https://www.consul.io/intro/getting-started/install.html
  
 https://devopscube.com/setup-consul-cluster-guide/
 
+#Issue faced :consul remote state is encrypted and encryption is not configured
+
+Solutin fixed:
+
+https://github.com/hashicorp/consul/issues/719
+
 
 # PostgreSql installation on Ubunto
 
