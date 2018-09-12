@@ -6,7 +6,7 @@ https://tomcat.apache.org/tomcat-7.0-doc/appdev/sample/
 
 
 
-# ==================== AWS cloud compute links ===============
+# ======== AWS cloud compute links =========
 
 # Cloud trial
 
@@ -57,7 +57,7 @@ https://docs.konghq.com/0.11.x/configuration/
 
 https://github.com/Kong/kong/issues/2471
 
-# =============== Service Discovery (consul) clouster setup ===============
+# ====== Service Discovery (consul) clouster setup =======
 
 #Important links
 
@@ -79,7 +79,7 @@ https://www.consul.io/docs/agent/options.html
 
 https://aws.amazon.com/blogs/compute/service-discovery-via-consul-with-amazon-ecs/
 
-# ================== Issuses fix links ================
+# ====== Issuses fix links ========
  Nice :
  
 https://devopscube.com/setup-consul-cluster-guide/
@@ -90,7 +90,7 @@ Solutin fixed:
 
 https://github.com/hashicorp/consul/issues/719
 
-# ====================== DB Related ===================
+# ======= DB Related ========
 # PostgreSql installation on Ubunto
 
 https://www.godaddy.com/garage/how-to-install-postgresql-on-ubuntu-14-04/
