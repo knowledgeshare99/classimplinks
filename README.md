@@ -65,6 +65,8 @@ https://www.consul.io/docs/agent/options.html
 
 https://www.consul.io/intro/getting-started/install.html
 
+https://www.consul.io/docs/agent/options.html
+
 #Consul with ECS AWS
 
 https://aws.amazon.com/blogs/compute/service-discovery-via-consul-with-amazon-ecs/
