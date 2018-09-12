@@ -14,6 +14,14 @@ https://blog.powerupcloud.com/capture-ec2-launch-termination-events-using-cloudt
 
 # NAT Gateway
 
+# S3 service 
+
+#How to make S3 bucket as a mount device
+
+https://github.com/knowledgeshare99/s3fs-fuse-rs
+
+https://cloudkul.com/blog/mounting-s3-bucket-linux-ec2-instance/
+
 # Cloud formation links:
 
 https://github.com/stelligent/application-loadbalancer-multi-cert
