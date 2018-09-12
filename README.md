@@ -31,7 +31,7 @@ http://www.tothenew.com/blog/launching-an-aws-ec2-instance-using-cloudformation-
 https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
 
 
-# ================= KONG API Gateway vs AWS API Gateway ============
+# ====== KONG API Gateway vs AWS API Gateway ========
 
 Installation steps on #CentOS7
 
