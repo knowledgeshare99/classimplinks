@@ -32,6 +32,11 @@ https://aws.amazon.com/blogs/aws/new-managed-nat-network-address-translation-gat
 
 http://www.tothenew.com/blog/launching-an-aws-ec2-instance-using-cloudformation-template/
 
+#Best examle for existing infra services to use
+
+https://github.com/awslabs/aws-cloudformation-templates/blob/master/community/services/VPC/vpc_template.json
+
+
 # ========== DevOps==================
 
 #Git and GitHub
