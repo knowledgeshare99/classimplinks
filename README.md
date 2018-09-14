@@ -35,6 +35,7 @@ http://www.tothenew.com/blog/launching-an-aws-ec2-instance-using-cloudformation-
 #Best examle for existing infra services to use
 
 https://github.com/awslabs/aws-cloudformation-templates/blob/master/community/services/VPC/vpc_template.json
+https://github.com/stelligent/cloudformation_templates/blob/master/infrastructure/vpn-static.json
 
 
 # ========== DevOps==================
