@@ -22,6 +22,9 @@ https://github.com/knowledgeshare99/s3fs-fuse-rs
 
 https://cloudkul.com/blog/mounting-s3-bucket-linux-ec2-instance/
 
+# Route 53 services
+https://www.bogotobogo.com/DevOps/AWS/aws-Route53-DNS-Private-Hosted-Zone.php
+
 # Cloud formation links:
 
 https://github.com/stelligent/application-loadbalancer-multi-cert
