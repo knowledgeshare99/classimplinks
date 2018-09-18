@@ -112,5 +112,8 @@ https://github.com/hashicorp/consul/issues/719
 
 https://www.godaddy.com/garage/how-to-install-postgresql-on-ubuntu-14-04/
 
+#postgresql failover
+https://aws.amazon.com/blogs/database/failover-with-amazon-aurora-postgresql/
+
 
 
