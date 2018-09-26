@@ -39,6 +39,10 @@ http://www.tothenew.com/blog/launching-an-aws-ec2-instance-using-cloudformation-
 
 https://github.com/awslabs/aws-cloudformation-templates/blob/master/community/services/VPC/vpc_template.json
 https://github.com/stelligent/cloudformation_templates/blob/master/infrastructure/vpn-static.json
+
+#Most helpful cfn templates for building all EC2-ASG-ELB-CWAlarms-Route53
+https://github.com/cloudtools/troposphere/pull/656/commits/b957ef56bce501c9525532951e06eced0a074946#diff-900790531ed2821872b805a3a4cdfbf5
+
 https://gist.github.com/donavanm/2156480
 
 
