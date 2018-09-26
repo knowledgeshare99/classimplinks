@@ -39,6 +39,7 @@ http://www.tothenew.com/blog/launching-an-aws-ec2-instance-using-cloudformation-
 
 https://github.com/awslabs/aws-cloudformation-templates/blob/master/community/services/VPC/vpc_template.json
 https://github.com/stelligent/cloudformation_templates/blob/master/infrastructure/vpn-static.json
+https://gist.github.com/donavanm/2156480
 
 
 # ========== DevOps==================
