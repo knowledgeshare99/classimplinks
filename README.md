@@ -45,6 +45,12 @@ https://github.com/cloudtools/troposphere/pull/656/commits/b957ef56bce501c952553
 
 https://gist.github.com/donavanm/2156480
 
+# Uploading a Server Certificate into both IAM and ACM (also update into Cloudfront)
+https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_server-certs.html
+
+https://aws.amazon.com/premiumsupport/knowledge-center/import-ssl-certificate-to-iam/
+
+https://aws.amazon.com/premiumsupport/knowledge-center/custom-ssl-certificate-cloudfront/
 
 # ========== DevOps==================
 
