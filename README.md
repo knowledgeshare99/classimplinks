@@ -22,6 +22,9 @@ https://github.com/knowledgeshare99/s3fs-fuse-rs
 
 https://cloudkul.com/blog/mounting-s3-bucket-linux-ec2-instance/
 
+#How to restrice the bucket from public internet to access only from specific CIDR range
+https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
+
 # Route 53 services
 https://www.bogotobogo.com/DevOps/AWS/aws-Route53-DNS-Private-Hosted-Zone.php
 
