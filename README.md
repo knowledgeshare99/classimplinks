@@ -25,10 +25,10 @@ https://cloudkul.com/blog/mounting-s3-bucket-linux-ec2-instance/
 #How to restrice the bucket from public internet to access only from specific CIDR range
 https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
 
-# AWS Secrete Manager
+# AWS Secrets Manager
 
 https://aws.amazon.com/compliance/services-in-scope/
-How does AWS Secrets Manager encrypt my secrets?
+#How does AWS Secrets Manager encrypt my secrets?
 AWS Secrets Manager uses envelope encryption (AES-256 encryption algorithm) to encrypt your secrets in AWS Key Management Service (KMS).When you first use Secrets Manager, you can specify the Customer Master Keys (CMKs) to encrypt secrets. If you do not provide a CMK, Secrets Manager creates AWS KMS default keys for your account automatically. When a secret is stored, Secrets Manager requests a plaintext and an encrypted data key from KMS. Secrets Manager uses the plaintext data key to encrypt the secret in memory. AWS Secrets Manager stores and maintains the encrypted secret and encrypted data key. When a secret is retrieved, Secrets Manager decrypts the data key (using the AWS KMS default keys) and uses the plaintext data key to decrypt the secret. The data key is stored encrypted and is never written to disk in plaintext. Also, Secrets Manager does not write or cache the plaintext secret to persistent storage.
 
 # Route 53 services
