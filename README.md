@@ -34,8 +34,14 @@ AWS Secrets Manager uses envelope encryption (AES-256 encryption algorithm) to e
 # Route 53 services
 https://www.bogotobogo.com/DevOps/AWS/aws-Route53-DNS-Private-Hosted-Zone.php
 
-# IP Whitelisting with Amazon API Gateway
+# Amazon API Gateway
+https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html
+
+#IP Whitelisting with Amazon API Gateway
+
 https://lobster1234.github.io/2018/04/14/amazon-api-gateway-ip-whitelisting/
+
+
 
 # Cloud formation links:
 
