@@ -66,12 +66,17 @@ https://gist.github.com/donavanm/2156480
 #AWS Cognito Cloudformation
 https://gist.github.com/singledigit/2c4d7232fa96d9e98a3de89cf6ebe7a5
 
-# Uploading a Server Certificate into both IAM and ACM (also update into Cloudfront)
+#Uploading a Server Certificate into both IAM and ACM (also update into Cloudfront)
 https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_server-certs.html
 
 https://aws.amazon.com/premiumsupport/knowledge-center/import-ssl-certificate-to-iam/
 
 https://aws.amazon.com/premiumsupport/knowledge-center/custom-ssl-certificate-cloudfront/
+
+#A New and Standardized Way to Manage Credentials in the AWS SDKs
+#How to create a AWS profile in your local aws credential store
+
+https://aws.amazon.com/blogs/security/a-new-and-standardized-way-to-manage-credentials-in-the-aws-sdks/
 
 # ========== DevOps==================
 
