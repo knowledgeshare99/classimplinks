@@ -134,6 +134,7 @@ https://www.consul.io/docs/agent/options.html
 https://aws.amazon.com/blogs/compute/service-discovery-via-consul-with-amazon-ecs/
 
 #SD via consul with ECS AWS - Github CFN
+
 https://github.com/awslabs/service-discovery-ecs-consul/blob/master/service-discovery-blog-template
 
 # ====== Issuses fix links ========
