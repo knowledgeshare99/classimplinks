@@ -133,6 +133,10 @@ https://www.consul.io/docs/agent/options.html
 
 https://aws.amazon.com/blogs/compute/service-discovery-via-consul-with-amazon-ecs/
 
+https://medium.com/@opsline/consul-service-discovery-for-ecs-87b845445d7b
+
+https://medium.com/containers-on-aws/how-to-setup-service-discovery-in-elastic-container-service-3d18479959e6
+
 #SD via consul with ECS AWS - Github CFN
 
 https://github.com/awslabs/service-discovery-ecs-consul/blob/master/service-discovery-blog-template
