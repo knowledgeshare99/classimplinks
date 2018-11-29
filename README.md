@@ -42,6 +42,12 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html
 https://lobster1234.github.io/2018/04/14/amazon-api-gateway-ip-whitelisting/
 
 
+# Lambda functions URLs
+
+#VPC - Notify On Invalid External Peering Connections
+
+https://www.capitalone.io/docs/usecases/vpcpeeringcrossaccount.html
+
 
 # Cloud formation links:
 
