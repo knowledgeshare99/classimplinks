@@ -49,6 +49,14 @@ https://lobster1234.github.io/2018/04/14/amazon-api-gateway-ip-whitelisting/
 https://www.capitalone.io/docs/usecases/vpcpeeringcrossaccount.html
 
 
+#RDS - Terminate Unencrypted Public Instances
+
+https://www.capitalone.io/docs/usecases/rdspublicunencrypted.html
+
+#RDS - Delete Unused Databases With No Connections
+
+https://www.capitalone.io/docs/usecases/rdsdeleteunused.html
+
 # Cloud formation links:
 
 https://github.com/stelligent/application-loadbalancer-multi-cert
