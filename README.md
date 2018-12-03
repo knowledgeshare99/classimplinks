@@ -174,5 +174,10 @@ https://www.godaddy.com/garage/how-to-install-postgresql-on-ubuntu-14-04/
 #postgresql failover
 https://aws.amazon.com/blogs/database/failover-with-amazon-aurora-postgresql/
 
+# DynamoDB
+
+https://aws.amazon.com/blogs/database/how-to-use-aws-cloudformation-to-configure-auto-scaling-for-amazon-dynamodb-tables-and-indexes/
+
+https://github.com/widdix/aws-cf-templates/blob/master/state/dynamodb.yaml
 
 
