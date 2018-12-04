@@ -57,6 +57,10 @@ https://www.capitalone.io/docs/usecases/rdspublicunencrypted.html
 
 https://www.capitalone.io/docs/usecases/rdsdeleteunused.html
 
+#Lambda Function to maintain s3 lifecycle managment
+
+https://github.com/aws-samples/aws-lambda-lifecycle-hooks-function/blob/master/lambda_backup.py
+
 # Cloud formation links:
 
 https://github.com/stelligent/application-loadbalancer-multi-cert
