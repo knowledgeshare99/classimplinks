@@ -110,9 +110,11 @@ https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
 
 https://www.softwaretestinghelp.com/ansible-playbooks-ansible-vaults/
 
-#Ansible Galaxy :
+#Ansible Galaxy and Galaxy Community
 
 https://docs.ansible.com/ansible/2.4/galaxy.html
+
+https://galaxy.ansible.com/community
 
 # ====== KONG API Gateway vs AWS API Gateway ========
 
