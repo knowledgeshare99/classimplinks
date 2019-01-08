@@ -25,6 +25,7 @@ https://cloudkul.com/blog/mounting-s3-bucket-linux-ec2-instance/
 #How to restrice the bucket from public internet to access only from specific CIDR range
 https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
 
+
 # AWS Secrets Manager
 
 https://aws.amazon.com/compliance/services-in-scope/
@@ -96,11 +97,23 @@ https://aws.amazon.com/premiumsupport/knowledge-center/custom-ssl-certificate-cl
 
 https://aws.amazon.com/blogs/security/a-new-and-standardized-way-to-manage-credentials-in-the-aws-sdks/
 
-# ========== DevOps==================
+# =====================================================
+
+#                   DevOps
+
+# =====================================================
+
+
 
 #Git and GitHub
 
 https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+
+# ============= Jenkins ==========
+
+#Deploy static web page from GitLab to Amazon S3 using Jenkins
+
+https://www.codeproject.com/Articles/1222632/%2FArticles%2F1222632%2FDeploy-static-web-page-from-GitLab-to-Amazon-S-usi
 
 
 # ======== Ansible Configuration Management  ========
