@@ -122,6 +122,10 @@ https://docs.ansible.com/ansible/latest/user_guide/playbooks_reuse_roles.html
 
 https://www.learnitguide.net/2018/02/ansible-roles-explained-with-examples.html
 
+#Ansible Roles: Making your Playbooks reusable
+
+http://redhatgov.io/workshops/ansible_tower/exercise1.5/
+
 # ====== KONG API Gateway vs AWS API Gateway ========
 
 Installation steps on #CentOS7
