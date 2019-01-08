@@ -103,11 +103,12 @@ https://aws.amazon.com/blogs/security/a-new-and-standardized-way-to-manage-crede
 https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
 
 
-# ============= Ansible Configuration Management  ===========
+# ======== Ansible Configuration Management  ========
 
 #Anisble playbooks automation :
+#Ansible Playbooks and Ansible Vaults with Examples
 
-https://docs.ansible.com/ansible/2.4/galaxy.html
+https://www.softwaretestinghelp.com/ansible-playbooks-ansible-vaults/
 
 #Ansible Galaxy :
 
