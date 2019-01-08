@@ -118,6 +118,8 @@ https://galaxy.ansible.com/community
 
 #Ansible Roles Explained with examples
 
+https://docs.ansible.com/ansible/latest/user_guide/playbooks_reuse_roles.html
+
 https://www.learnitguide.net/2018/02/ansible-roles-explained-with-examples.html
 
 # ====== KONG API Gateway vs AWS API Gateway ========
