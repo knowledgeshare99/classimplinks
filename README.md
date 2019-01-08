@@ -103,6 +103,16 @@ https://aws.amazon.com/blogs/security/a-new-and-standardized-way-to-manage-crede
 https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
 
 
+# ============= Ansible Configuration Management  ===========
+
+#Anisble playbooks automation :
+
+https://docs.ansible.com/ansible/2.4/galaxy.html
+
+#Ansible Galaxy :
+
+https://docs.ansible.com/ansible/2.4/galaxy.html
+
 # ====== KONG API Gateway vs AWS API Gateway ========
 
 Installation steps on #CentOS7
