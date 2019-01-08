@@ -116,6 +116,10 @@ https://docs.ansible.com/ansible/2.4/galaxy.html
 
 https://galaxy.ansible.com/community
 
+#Ansible Roles Explained with examples
+
+https://www.learnitguide.net/2018/02/ansible-roles-explained-with-examples.html
+
 # ====== KONG API Gateway vs AWS API Gateway ========
 
 Installation steps on #CentOS7
