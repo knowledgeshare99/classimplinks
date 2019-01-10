@@ -126,10 +126,19 @@ https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
 
 # ============= Jenkins ==========
 
+#Well explained about CICD 
+
+https://dzone.com/articles/jenkins-pipeline-for-continuous-delivery-and-deplo
+
 #Deploy static web page from GitLab to Amazon S3 using Jenkins
 
 https://www.codeproject.com/Articles/1222632/%2FArticles%2F1222632%2FDeploy-static-web-page-from-GitLab-to-Amazon-S-usi
 
+#Jenkins - CICD for Build compile,test,Package and Deploy 
+
+https://dzone.com/articles/jenkins-pipeline-for-continuous-delivery-and-deplo
+
+https://dzone.com/articles/building-a-continuous-delivery-pipeline-using-jenk
 
 # ======== Ansible Configuration Management  ========
 
@@ -153,6 +162,28 @@ https://www.learnitguide.net/2018/02/ansible-roles-explained-with-examples.html
 #Ansible Roles: Making your Playbooks reusable
 
 http://redhatgov.io/workshops/ansible_tower/exercise1.5/
+
+
+# Docker Container 
+
+#Docker Hub
+
+https://hub.docker.com/
+
+#About Dockerfile explain?
+
+http://odewahn.github.io/docker-jumpstart/building-images-with-dockerfiles.html
+
+#Docker Concept 
+
+https://docs.docker.com/get-started/
+
+#how to build Custom Docker Image using Dockerfile
+
+https://www.linux.com/learn/how-build-your-own-custom-docker-images
+
+http://odewahn.github.io/docker-jumpstart/building-images-with-dockerfiles.html
+
 
 # ====== KONG API Gateway vs AWS API Gateway ========
 
