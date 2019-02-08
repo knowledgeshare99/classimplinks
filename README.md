@@ -32,6 +32,19 @@ https://aws.amazon.com/compliance/services-in-scope/
 #How does AWS Secrets Manager encrypt my secrets?
 AWS Secrets Manager uses envelope encryption (AES-256 encryption algorithm) to encrypt your secrets in AWS Key Management Service (KMS).When you first use Secrets Manager, you can specify the Customer Master Keys (CMKs) to encrypt secrets. If you do not provide a CMK, Secrets Manager creates AWS KMS default keys for your account automatically. When a secret is stored, Secrets Manager requests a plaintext and an encrypted data key from KMS. Secrets Manager uses the plaintext data key to encrypt the secret in memory. AWS Secrets Manager stores and maintains the encrypted secret and encrypted data key. When a secret is retrieved, Secrets Manager decrypts the data key (using the AWS KMS default keys) and uses the plaintext data key to decrypt the secret. The data key is stored encrypted and is never written to disk in plaintext. Also, Secrets Manager does not write or cache the plaintext secret to persistent storage.
 
+#what is Secrets Manager ?
+
+https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html
+
+#How to implement secretes key rotation using lambda ?
+
+https://aws.amazon.com/blogs/security/how-to-rotate-your-twitter-api-key-and-bearer-token-automatically-with-aws-secrets-manager/
+
+#Secrets Manager Limits:
+
+https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_limits.html
+
+
 # Route 53 services
 https://www.bogotobogo.com/DevOps/AWS/aws-Route53-DNS-Private-Hosted-Zone.php
 
