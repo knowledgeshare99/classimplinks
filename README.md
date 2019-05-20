@@ -62,6 +62,11 @@ https://lobster1234.github.io/2018/04/14/amazon-api-gateway-ip-whitelisting/
 
 https://www.capitalone.io/docs/usecases/vpcpeeringcrossaccount.html
 
+# DynamoDB --> stream --> lambda --> kinesis --> S3 --> archive glacier
+
+https://aws.amazon.com/blogs/database/automatically-archive-items-to-s3-using-dynamodb-time-to-live-with-aws-lambda-and-amazon-kinesis-firehose/
+
+https://github.com/knowledgeshare99/lambda-streams-to-firehose
 
 #RDS - Terminate Unencrypted Public Instances
 
