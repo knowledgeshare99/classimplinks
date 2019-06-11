@@ -115,6 +115,13 @@ https://aws.amazon.com/premiumsupport/knowledge-center/custom-ssl-certificate-cl
 
 https://aws.amazon.com/blogs/security/a-new-and-standardized-way-to-manage-credentials-in-the-aws-sdks/
 
+
+# CloudFront and S3 
+
+#Implementing Default Directory Indexes in Amazon S3-backed Amazon CloudFront Origins Using Lambda@Edge:Realtime scenarios:Most important 
+
+https://aws.amazon.com/blogs/compute/implementing-default-directory-indexes-in-amazon-s3-backed-amazon-cloudfront-origins-using-lambdaedge/
+
 # Terraform ECS
 
 #ECS-Cluster,Repo-Service,TaskDef,ELB,ALB,and Route53 using installing terraform
