@@ -62,6 +62,15 @@ https://lobster1234.github.io/2018/04/14/amazon-api-gateway-ip-whitelisting/
 
 https://www.capitalone.io/docs/usecases/vpcpeeringcrossaccount.html
 
+#Indexing Amazon DynamoDB Content with Amazon Elasticsearch Service Using AWS Lambda
+
+https://aws.amazon.com/blogs/compute/indexing-amazon-dynamodb-content-with-amazon-elasticsearch-service-using-aws-lambda/
+
+#Automatically Archive Items to S3 Using DynamoDB Time to Live (TTL) with AWS Lambda and Amazon Kinesis Firehose
+
+https://aws.amazon.com/blogs/database/automatically-archive-items-to-s3-using-dynamodb-time-to-live-with-aws-lambda-and-amazon-kinesis-firehose/
+https://github.com/knowledgeshare99/lambda-streams-to-firehose
+
 # DynamoDB --> stream --> lambda --> kinesis --> S3 --> archive glacier
 
 https://aws.amazon.com/blogs/database/automatically-archive-items-to-s3-using-dynamodb-time-to-live-with-aws-lambda-and-amazon-kinesis-firehose/
