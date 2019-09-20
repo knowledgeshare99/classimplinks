@@ -304,3 +304,23 @@ https://aws.amazon.com/blogs/database/how-to-use-aws-cloudformation-to-configure
 https://github.com/widdix/aws-cf-templates/blob/master/state/dynamodb.yaml
 
 
+# ------------ DynamoDB Best Practices -------------
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html
+
+A serverless solution to schedule your Amazon DynamoDB On-Demand Backup auto based on retention/secheduled:
+https://aws.amazon.com/blogs/database/a-serverless-solution-to-schedule-your-amazon-dynamodb-on-demand-backup/
+
+How to Migrate an existing DynamoDB Table to a Global Table:
+
+https://www.alexdebrie.com/posts/dynamodb-migrate-global-table/
+
+Cross-Region Export and Import of DynamoDB Tables:Using AWS DataPipeline
+https://aws.amazon.com/blogs/aws/cross-region-import-and-export-of-dynamodb-tables/
+https://aws.amazon.com/about-aws/whats-new/2013/09/12/announcing-dynamodb-cross-region-copy-feature-in-aws-data-pipeline/
+
+Replicating Amazon DynamoDB tables in different region using python script:
+https://itnext.io/replicating-amazon-dynamodb-tables-in-different-region-1299b3eca2ae
+https://gist.github.com/Dineshkarthik/d0944c45b06726a327a9536a33dabdd2
+https://gist.github.com/davoscollective/15e15ec2b2ec368f6cc71509c9693d34
+
+
