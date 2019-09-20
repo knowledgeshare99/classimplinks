@@ -323,4 +323,10 @@ https://itnext.io/replicating-amazon-dynamodb-tables-in-different-region-1299b3e
 https://gist.github.com/Dineshkarthik/d0944c45b06726a327a9536a33dabdd2
 https://gist.github.com/davoscollective/15e15ec2b2ec368f6cc71509c9693d34
 
+Migrating DynamoDB from one AWS account to another with Zero Downtime:
+https://medium.com/@avinash.singhal/migrating-dynamodb-from-one-aws-account-to-another-with-zero-downtime-40826157844c
+
+AWS Data Pipeline- Copy from DynamoDB Table to S3 Bucket:
+https://medium.com/tensult/aws-data-pipeline-copy-from-dynamodb-table-to-s3-bucket-9a6c3097842d
+
 
