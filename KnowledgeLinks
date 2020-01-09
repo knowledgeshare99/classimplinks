@@ -17,4 +17,16 @@ Best practices to implement in AWS using pythong code :
 
 https://python-forum.io/Thread-AWS-lambda-script-help-Listing-untagged-volumes
 
+# ServiceNow automation fetching CNRQs records using Selenium Webdriver 
+
+Links for useful
+using Maven-Jenkins-Selenium - Selenium Webdrive:
+https://www.guru99.com/maven-jenkins-with-selenium-complete-tutorial.html
+https://www.guru99.com/accessing-forms-in-webdriver.html
+
+Python :
+https://www.guru99.com/selenium-python.html
+
+Using ServiceNow API python:
+https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/inbound_rest/reference/r_TableAPIPythonExamples.html
 
